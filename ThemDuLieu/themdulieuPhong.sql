@@ -1,0 +1,11 @@
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(101, 2500000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(102, 2800000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(103, 2300000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(201, 2000000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(202, 2200000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(203, 2300000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(301, 2500000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(302, 2700000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(303, 2600000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(401, 3000000, N'Đã thuê');
+INSERT INTO PHONG (SoPhong, GiaPhong, TrangThai) VALUES(402, 3200000, N'Đã thuê');

@@ -1,0 +1,11 @@
+SELECT 
+    KHACH.TenKhach,
+    PHONG.SoPhong,
+    HOADON.Thang,
+    (PHONG.GiaPhong 
+     + HOADON.SoDien * 3000 
+     + HOADON.SoNuoc * 5000) AS TongTien
+FROM HOPDONG
+JOIN KHACH ON HOPDONG.CCCD = KHACH.CCCD
+JOIN PHONG ON HOPDONG.SoPhong = PHONG.SoPhong
+JOIN HOADON ON PHONG.SoPhong = HOADON.SoPhong;

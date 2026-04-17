@@ -1,0 +1,11 @@
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(1, 101, 1,  50, 3);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(2, 102, 1,  70, 5);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(3, 103, 1,  53, 2);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(4, 201, 1,  62, 4);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(5, 202, 1,  81, 6);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(6, 203, 1,  63, 4);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(7, 301, 1,  56, 3);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(8, 302, 1,  71, 2);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(9, 303, 1,  65, 4);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(10, 401, 1,  69, 6);
+INSERT INTO HOADON (MaHoaDon,SoPhong,Thang,SoDien,SoNuoc) VALUES(11, 402, 1,  78, 5);
